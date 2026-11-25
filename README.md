@@ -17,7 +17,7 @@ Meu objetivo é construir uma trajetória sólida na área de tecnologia, aprend
 
 - Git e GitHub
 - HTML e CSS
-- Arduino e Tinkercad
+
 
 **Áreas de interesse**
 
